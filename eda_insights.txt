@@ -1,0 +1,6 @@
+EDA results are generated from synthetic practice data, not actual business records.
+Highest-revenue category in this sample: Electronics ($89,585.88).
+Highest-revenue region in this sample: North ($111,700.81).
+Total analyzed revenue: $286,984.31.
+Average order revenue: $573.97.
+Use the monthly trend and category/region summaries to identify areas for further investigation; do not treat synthetic patterns as real-world conclusions.
